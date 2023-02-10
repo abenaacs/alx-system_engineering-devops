@@ -1,1 +1,2 @@
-pwd
+#!/bin/bash
+pwd -P 0x00-shell_basics
